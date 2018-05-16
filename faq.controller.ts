@@ -1,6 +1,6 @@
 import {Controller, Post, Get, HttpCode, Param} from '@nestjs/common';
 @Controller('faqcontroller')
-export class Faqcontroller{
+export class Pfqcontroller{
     preguntas: Pregunta[]=[];
 
     @Get('mostrarPreguntas')
@@ -15,8 +15,8 @@ export class Faqcontroller{
 
     @Post('crearPregunta/:pregunta/:respuesta')
     @HttpCode(203)
-    crearPregunta(@Param() param){
-        this.preguntas.push(new Pregunta(param.pregunta, param.respuesta));
+    hacerPregunta(@Param() param){
+        this.preguntas.push(new Pregunta(param.PREGUNTA, param.RESPUESTA));
         return 'Pregunta Guardada';
     }
 }

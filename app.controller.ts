@@ -7,13 +7,12 @@ export class AppController {
 
   @Get()
   root(){
-    console.log('Entro al metodo');
     contador ++;
     let html = fs.readFileSync(
       __dirname + '/html/index.html',
       'utf8'
   );
   html = html.replace('{{variable}}',contador);
-  return html; // contenido o un error
+  return html;
   }
 }

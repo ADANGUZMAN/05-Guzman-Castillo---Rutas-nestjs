@@ -1,7 +1,5 @@
 import {Controller, Get, HttpCode} from '@nestjs/common';
-
 const fs=require('fs');
-
 @Controller('home')
 export class InicioController{
     @Get()
