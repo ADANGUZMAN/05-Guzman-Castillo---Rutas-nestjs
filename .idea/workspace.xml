@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17d82d00-5a9c-42ff-afbb-b373cff41d9f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/faq.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inicio.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inicio.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/body.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/body.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/header.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +18,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.controller.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.controller.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.controller.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
               <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="body.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/body.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -70,6 +97,9 @@
         <option value="$PROJECT_DIR$/inicio.controller.ts" />
         <option value="$PROJECT_DIR$/faq.controller.ts" />
         <option value="$PROJECT_DIR$/app.controller.ts" />
+        <option value="$PROJECT_DIR$/html/body.html" />
+        <option value="$PROJECT_DIR$/html/footer.html" />
+        <option value="$PROJECT_DIR$/html/header.html" />
       </list>
     </option>
   </component>
@@ -103,6 +133,11 @@
             <path>
               <item name="05-Guzman-Castillo---Rutas-nestjs" type="b2602c69:ProjectViewProjectNode" />
               <item name="05-Guzman-Castillo---Rutas-nestjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="05-Guzman-Castillo---Rutas-nestjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05-Guzman-Castillo---Rutas-nestjs" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="05-Guzman-Castillo---Rutas-nestjs" type="b2602c69:ProjectViewProjectNode" />
@@ -152,12 +187,12 @@
       <workItem from="1526439620141" duration="1522000" />
       <workItem from="1526445679422" duration="965000" />
       <workItem from="1526446773899" duration="17000" />
-      <workItem from="1526446813200" duration="2024000" />
+      <workItem from="1526446813200" duration="2123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8489000" />
+    <option name="totallyTimeSpent" value="8588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1166" height="694" extended-state="6" />
@@ -261,6 +296,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/body.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
